@@ -45,6 +45,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "d635ef39-e208-4ae4-b649-e8a97a6f2f21": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer-menu-1"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -61,6 +68,7 @@
           }
         },
         "block_order": [
+          "d635ef39-e208-4ae4-b649-e8a97a6f2f21",
           "footer-0",
           "footer-1"
         ],
