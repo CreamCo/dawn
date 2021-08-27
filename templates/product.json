@@ -6,12 +6,14 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text_style": "uppercase",
-            "text": "{{ product.vendor }}"
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "subtitle": {
           "type": "text",
@@ -21,22 +23,37 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
-          "type": "variant_picker"
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
-          "type": "buy_buttons"
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
         },
         "description": {
-          "type": "description"
+          "type": "description",
+          "settings": {
+          }
         },
         "share": {
-          "type": "share"
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
@@ -49,14 +66,104 @@
         "buy_buttons",
         "description",
         "share"
-      ]
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
     },
     "product-recommendations": {
-      "type": "product-recommendations"
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1630094698ab98ca14": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1630094784486bee04": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1630094784486bee04-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1630094784486bee04-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1630094784486bee04-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1630094784486bee04-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1630094784486bee04-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1630094784486bee04-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1630094784486bee04-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1630094784486bee04-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1630094784486bee04-0",
+        "1630094784486bee04-1",
+        "1630094784486bee04-2",
+        "1630094784486bee04-3",
+        "1630094784486bee04-4",
+        "1630094784486bee04-5",
+        "1630094784486bee04-6",
+        "1630094784486bee04-7"
+      ],
+      "settings": {
+        "product": "",
+        "secondary_background": false,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1630094698ab98ca14",
+    "1630094784486bee04"
   ]
 }
