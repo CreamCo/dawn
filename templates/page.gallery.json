@@ -5,36 +5,38 @@
       "settings": {
       }
     },
-    "1630622409a60e4acd": {
+    "16306254521dae3130": {
       "type": "collage",
       "blocks": {
-        "981a0aef-0ca3-4f56-a295-b4e37b271fea": {
+        "abf3e525-0c28-4e8a-a79e-0584cc4b7ddc": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2018-05-02_11.26.15.jpg",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.43.38_AM.png",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         },
-        "15b24007-b40c-4c4b-aa5f-65c73290eef4": {
+        "c47bb571-87a5-4464-b385-6314e664c3b7": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.36.11_AM.png",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         },
-        "1db9c92b-3291-4ad8-8351-dcbf391e9fff": {
+        "0e1849b8-0c7b-4baa-ac37-7ead732e6ca9": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.32.51_AM.png",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         }
       },
       "block_order": [
-        "981a0aef-0ca3-4f56-a295-b4e37b271fea",
-        "15b24007-b40c-4c4b-aa5f-65c73290eef4",
-        "1db9c92b-3291-4ad8-8351-dcbf391e9fff"
+        "abf3e525-0c28-4e8a-a79e-0584cc4b7ddc",
+        "c47bb571-87a5-4464-b385-6314e664c3b7",
+        "0e1849b8-0c7b-4baa-ac37-7ead732e6ca9"
       ],
       "settings": {
         "heading": "",
@@ -56,6 +58,7 @@
         "6b46f092-07ae-4ea2-b8e7-75a2ee481fab": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/lifeguard-stand-on-grey-beach.jpg",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -63,6 +66,7 @@
         "2f1ce6e1-3b7d-47ab-8e45-1b2e5f48d6f3": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2018-05-02-cream-pad-wrist4.png",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -79,26 +83,67 @@
         "mobile_layout": "collage"
       }
     },
-    "16306254521dae3130": {
+    "1630622409a60e4acd": {
       "type": "collage",
       "blocks": {
-        "abf3e525-0c28-4e8a-a79e-0584cc4b7ddc": {
+        "15b24007-b40c-4c4b-aa5f-65c73290eef4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.43.38_AM.png",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.38.52_AM.png",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         },
-        "c47bb571-87a5-4464-b385-6314e664c3b7": {
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2018-05-02_11.26.15.jpg",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         },
-        "0e1849b8-0c7b-4baa-ac37-7ead732e6ca9": {
+        "1db9c92b-3291-4ad8-8351-dcbf391e9fff": {
           "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.39.26_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "15b24007-b40c-4c4b-aa5f-65c73290eef4",
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea",
+        "1db9c92b-3291-4ad8-8351-dcbf391e9fff"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "1630626032ecd98e79": {
+      "type": "collage",
+      "blocks": {
+        "eccc42ea-973d-43c3-94d7-59f65ed43f67": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/373DC42B-4565-4876-AC90-972A63274FBE.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "9206c00c-1285-4999-bd60-a84301e28232": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B6754BA6-057A-442D-BD2A-3D972D5EF16D.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "abb3f7d2-d5b3-41cb-adf1-0fd90688d9cd": {
+          "type": "image",
+          "disabled": true,
           "settings": {
             "image_padding": false,
             "color_scheme": "background-1"
@@ -106,21 +151,22 @@
         }
       },
       "block_order": [
-        "abf3e525-0c28-4e8a-a79e-0584cc4b7ddc",
-        "c47bb571-87a5-4464-b385-6314e664c3b7",
-        "0e1849b8-0c7b-4baa-ac37-7ead732e6ca9"
+        "eccc42ea-973d-43c3-94d7-59f65ed43f67",
+        "9206c00c-1285-4999-bd60-a84301e28232",
+        "abb3f7d2-d5b3-41cb-adf1-0fd90688d9cd"
       ],
       "settings": {
         "heading": "",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "collage"
       }
     }
   },
   "order": [
     "main",
-    "1630622409a60e4acd",
+    "16306254521dae3130",
     "16306225738f66439c",
-    "16306254521dae3130"
+    "1630622409a60e4acd",
+    "1630626032ecd98e79"
   ]
 }
