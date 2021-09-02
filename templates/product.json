@@ -99,7 +99,6 @@
     },
     "1630094784486bee04": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "1630094784486bee04-0": {
           "type": "text",
@@ -160,9 +159,44 @@
         "1630094784486bee04-7"
       ],
       "settings": {
-        "product": "",
-        "secondary_background": false,
+        "product": "leather-decker",
+        "secondary_background": true,
         "enable_video_looping": false
+      }
+    },
+    "16305970905930e7eb": {
+      "type": "apps",
+      "blocks": {
+        "2555e572-4fa6-4c3e-a910-26f83acbdfed": {
+          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "button_text": "",
+            "button_link": "",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": false,
+            "rows_count": 3,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "2555e572-4fa6-4c3e-a910-26f83acbdfed"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -170,6 +204,7 @@
     "main",
     "product-recommendations",
     "1630094698ab98ca14",
-    "1630094784486bee04"
+    "1630094784486bee04",
+    "16305970905930e7eb"
   ]
 }
