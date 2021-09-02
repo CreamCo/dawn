@@ -97,6 +97,42 @@
         "include_margins": true
       }
     },
+    "1630619551f8e5c350": {
+      "type": "rich-text",
+      "blocks": {
+        "1630619551f8e5c350-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Original Skate Deck and Panel Art",
+            "heading_size": "h1"
+          }
+        },
+        "1630619551f8e5c350-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hand-painted or decorated, luxury, mystical, or oddball skateboard deck and traditional panel art by Luke Dorny, who is running a little studio shop called Cream Co out of Seattle, Washington.<\/p>"
+          }
+        },
+        "1630619551f8e5c350-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630619551f8e5c350-0",
+        "1630619551f8e5c350-1",
+        "1630619551f8e5c350-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
     "1630094784486bee04": {
       "type": "featured-product",
       "blocks": {
@@ -205,6 +241,7 @@
     "main",
     "product-recommendations",
     "1630094698ab98ca14",
+    "1630619551f8e5c350",
     "1630094784486bee04",
     "16305970905930e7eb"
   ]

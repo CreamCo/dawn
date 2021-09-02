@@ -37,6 +37,22 @@
       "settings": {
       }
     },
+    "1630616671b57ca2fc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "leatherwork",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "16306023482216c1a2": {
       "type": "apps",
       "blocks": {
@@ -75,6 +91,7 @@
   },
   "order": [
     "main",
+    "1630616671b57ca2fc",
     "16306023482216c1a2"
   ]
 }

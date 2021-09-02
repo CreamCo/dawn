@@ -10,6 +10,7 @@
     "type_header_font": "zurich_extended_n4",
     "type_body_font": "zurich_n4",
     "accent_icons": "outline-button",
+    "page_width": "1200",
     "social_twitter_link": "twitter.com\/CreamLtdCo",
     "social_instagram_link": "instagram.com\/creamltdco",
     "favicon": "shopify:\/\/shop_images\/Sk8-fly.png",
@@ -38,7 +39,7 @@
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/90C5D164-D1E5-4E1D-B07F-899EDFDC00CA_fdeabd60-df7c-4da8-a86e-a8b278fd2061.png",
           "logo_width": 160,
-          "logo_position": "top-center",
+          "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": false
@@ -91,6 +92,20 @@
           "enable_country_selector": true,
           "enable_language_selector": false,
           "payment_enable": true
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/90C5D164-D1E5-4E1D-B07F-899EDFDC00CA_6a6c6315-4430-42f1-aab5-d486609a60d4.png",
+          "logo_max_width": 100,
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "background-1"
         }
       }
     },

@@ -13,10 +13,10 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "View Painted Decks",
+            "button_label_1": "Skate Decks",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
-            "button_label_2": "View In Stock",
+            "button_label_2": "In Stock Art",
             "button_link_2": "shopify:\/\/collections\/stock",
             "button_style_secondary_2": false
           }
@@ -29,10 +29,10 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/B6754BA6-057A-442D-BD2A-3D972D5EF16D.jpg",
         "adapt_height_first_image": true,
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 30,
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -43,14 +43,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Original skateboard deck art",
+            "heading": "Original Skate Decks and Panel Art",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Hand-painted or decorated, luxuryl, mystical, or oddball deck art by Luke Dorny, who is running a little studio shop called Cream Co  out of Seattle, Washington.<\/p>"
+            "text": "<p>Hand-painted or decorated, luxury, mystical, or oddball skateboard deck and traditional panel art by Luke Dorny, who is running a little studio shop called Cream Co out of Seattle, Washington.<\/p>"
           }
         },
         "button": {
@@ -69,7 +69,7 @@
         "button"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true
       }
     },
@@ -101,14 +101,6 @@
             "secondary_background": false
           }
         },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": "catalog",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
         "1d633c35-888b-4a31-bc71-ad53a82216d4": {
           "type": "product",
           "settings": {
@@ -117,15 +109,24 @@
             "image_padding": false,
             "secondary_background": false
           }
+        },
+        "56b03243-51df-4fc3-92e0-2a5fa44bae22": {
+          "type": "product",
+          "settings": {
+            "product": "dragon-panel",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
         }
       },
       "block_order": [
         "product",
-        "collection",
-        "1d633c35-888b-4a31-bc71-ad53a82216d4"
+        "1d633c35-888b-4a31-bc71-ad53a82216d4",
+        "56b03243-51df-4fc3-92e0-2a5fa44bae22"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
@@ -137,7 +138,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/molten-maple-decks.png",
-            "title": "The Molten Skate Deck Art",
+            "title": "Molten Skate Deck Art",
             "text": ""
           }
         },
@@ -169,7 +170,7 @@
         "image_ratio": "square",
         "column_alignment": "center",
         "background_style": "secondary",
-        "button_label": "Available Art",
+        "button_label": "In Stock Art",
         "button_link": "shopify:\/\/collections\/stock",
         "swipe_on_mobile": true
       }
@@ -216,10 +217,10 @@
         "7ff9a63e-0d83-45ef-b1c7-c758755fd91a": {
           "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
           "settings": {
-            "title": "",
+            "title": "Micro Updates on IG",
             "subheading": "",
-            "button_text": "",
-            "button_link": "",
+            "button_text": "@CreamLtdCo",
+            "button_link": "https:\/\/www.instagram.com\/creamltdco\/",
             "layout": "grid",
             "image_size": "small",
             "add_spacing": false,

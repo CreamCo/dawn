@@ -1,10 +1,27 @@
 {
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1630619729ab32fe6a": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.39.40_AM.png",
+        "image_2": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.32.51_AM.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 20,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1630619729ab32fe6a"
   ]
 }

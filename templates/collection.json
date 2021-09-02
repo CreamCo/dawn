@@ -21,10 +21,132 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": true
       }
+    },
+    "1630617999c688fd5f": {
+      "type": "rich-text",
+      "blocks": {
+        "1630617999c688fd5f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is Cream Co?",
+            "heading_size": "h1"
+          }
+        },
+        "1630617999c688fd5f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hand-painted or decorated, luxury, mystical, or oddball skateboard deck and traditional panel art by Luke Dorny, who is running a little studio shop called Cream Co out of Seattle, Washington.<\/p>"
+          }
+        },
+        "1630617999c688fd5f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630617999c688fd5f-0",
+        "1630617999c688fd5f-1",
+        "1630617999c688fd5f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false
+      }
+    },
+    "16306180208210b138": {
+      "type": "apps",
+      "blocks": {
+        "f4644b2a-3897-45f0-8f73-37fef50089b0": {
+          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "Micro Updates on IG",
+            "subheading": "",
+            "button_text": "@CreamLtdCo",
+            "button_link": "https:\/\/www.instagram.com\/creamltdco\/",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": false,
+            "rows_count": 2,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "f4644b2a-3897-45f0-8f73-37fef50089b0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1630618186b9e32a53": {
+      "type": "image-banner",
+      "blocks": {
+        "1630618186b9e32a53-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1630618186b9e32a53-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1630618186b9e32a53-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1630618186b9e32a53-0",
+        "1630618186b9e32a53-1",
+        "1630618186b9e32a53-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/B6754BA6-057A-442D-BD2A-3D972D5EF16D.jpg",
+        "image_2": "shopify:\/\/shop_images\/373DC42B-4565-4876-AC90-972A63274FBE.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 20,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "1630617999c688fd5f",
+    "16306180208210b138",
+    "1630618186b9e32a53"
   ]
 }

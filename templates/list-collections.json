@@ -3,15 +3,105 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
-        "title": "Collections",
+        "title": "Categories",
         "sort": "products_high",
         "image_ratio": "square",
         "color_scheme": "background-2",
         "image_padding": false
       }
+    },
+    "16306176969b19e279": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "In Stock",
+        "collection": "stock",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "1630619653c657ad29": {
+      "type": "rich-text",
+      "blocks": {
+        "1630619653c657ad29-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Original Skate Deck and Panel Art",
+            "heading_size": "h1"
+          }
+        },
+        "1630619653c657ad29-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hand-painted or decorated, luxury, mystical, or oddball skateboard deck and traditional panel art by Luke Dorny, who is running a little studio shop called Cream Co out of Seattle, Washington.<\/p>"
+          }
+        },
+        "1630619653c657ad29-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630619653c657ad29-0",
+        "1630619653c657ad29-1",
+        "1630619653c657ad29-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
+    "163061786196a1a02e": {
+      "type": "apps",
+      "blocks": {
+        "aa42ae05-7c1b-4237-b9ac-1d3f35fe64b3": {
+          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "Micro Updates on IG",
+            "subheading": "",
+            "button_text": "@CreamLtdCo",
+            "button_link": "https:\/\/www.instagram.com\/creamltdco\/",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": false,
+            "rows_count": 2,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "aa42ae05-7c1b-4237-b9ac-1d3f35fe64b3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16306176969b19e279",
+    "1630619653c657ad29",
+    "163061786196a1a02e"
   ]
 }
