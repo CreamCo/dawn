@@ -205,6 +205,41 @@
         "image_padding": false,
         "show_view_all": true
       }
+    },
+    "16305626321bae9262": {
+      "type": "apps",
+      "blocks": {
+        "7ff9a63e-0d83-45ef-b1c7-c758755fd91a": {
+          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "button_text": "",
+            "button_link": "",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": true,
+            "rows_count": 3,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "7ff9a63e-0d83-45ef-b1c7-c758755fd91a"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -213,6 +248,7 @@
     "featured_products",
     "collage",
     "multi_column",
-    "16305619563f4d255e"
+    "16305619563f4d255e",
+    "16305626321bae9262"
   ]
 }
