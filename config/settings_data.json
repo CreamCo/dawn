@@ -12,6 +12,7 @@
     "accent_icons": "outline-button",
     "social_twitter_link": "twitter.com\/CreamLtdCo",
     "social_instagram_link": "instagram.com\/creamltdco",
+    "favicon": "shopify:\/\/shop_images\/Sk8-fly.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
