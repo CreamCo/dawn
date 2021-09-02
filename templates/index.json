@@ -80,7 +80,7 @@
         "collection": "stock",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
@@ -172,7 +172,7 @@
         "background_style": "secondary",
         "button_label": "In Stock Art",
         "button_link": "shopify:\/\/collections\/stock",
-        "swipe_on_mobile": true
+        "swipe_on_mobile": false
       }
     },
     "16305619563f4d255e": {

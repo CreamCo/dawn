@@ -5,23 +5,133 @@
       "settings": {
       }
     },
-    "1630619729ab32fe6a": {
-      "type": "image-banner",
+    "1630622409a60e4acd": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "1630622409a60e4acd-1": {
+          "type": "product",
+          "settings": {
+            "product": "glacier-panel",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2018-05-02_11.26.15.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "02a0a1b5-e095-448f-8993-683721b1192b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.36.11_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1630622409a60e4acd-1",
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea",
+        "02a0a1b5-e095-448f-8993-683721b1192b"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.39.40_AM.png",
-        "image_2": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.32.51_AM.png",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 20,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "16306225738f66439c": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "d8208b64-1341-4da1-b640-a31154f98753": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/76823C39-200F-4A5E-856E-4ABAAB57EA78.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "d2f824dc-ae5a-4fd0-acca-587b91e53e3b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tidal-deck-490.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "214f4753-1b3b-416b-a2a7-0bc27e31ff59": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.43.38_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "d8208b64-1341-4da1-b640-a31154f98753",
+        "d2f824dc-ae5a-4fd0-acca-587b91e53e3b",
+        "214f4753-1b3b-416b-a2a7-0bc27e31ff59"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "right",
+        "mobile_layout": "collage"
+      }
+    },
+    "1630623819c744141b": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "1630623819c744141b-1": {
+          "type": "product",
+          "settings": {
+            "product": "fog-cutter-beanie",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "fb1cd8ef-e2f3-4975-a226-9731439edd41": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.38.52_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "f4b913b1-63f6-4f0f-a4ef-84d7d5f6f21b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.39.26_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1630623819c744141b-1",
+        "fb1cd8ef-e2f3-4975-a226-9731439edd41",
+        "f4b913b1-63f6-4f0f-a4ef-84d7d5f6f21b"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "right",
+        "mobile_layout": "collage"
       }
     }
   },
   "order": [
     "main",
-    "1630619729ab32fe6a"
+    "1630622409a60e4acd",
+    "16306225738f66439c",
+    "1630623819c744141b"
   ]
 }

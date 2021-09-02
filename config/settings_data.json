@@ -6,7 +6,7 @@
     "colors_text": "#1c1a1a",
     "colors_outline_button_labels": "#7b8382",
     "colors_background_1": "#efecec",
-    "colors_background_2": "#c1bcae",
+    "colors_background_2": "#dad7cd",
     "type_header_font": "zurich_extended_n4",
     "type_body_font": "zurich_n4",
     "accent_icons": "outline-button",
@@ -48,27 +48,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "d635ef39-e208-4ae4-b649-e8a97a6f2f21": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer-menu-1"
-            }
-          },
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
-            }
-          },
           "4f2c9f73-2531-410a-a325-574a1bbdd9c5": {
             "type": "image",
             "settings": {
@@ -76,13 +55,34 @@
               "image_width": 200,
               "alignment": "center"
             }
+          },
+          "footer-1": {
+            "type": "text",
+            "settings": {
+              "heading": "What is Cream Co?",
+              "subtext": "<p>Cream is the art you display that reflects your interests and your appreciation for form and function. <\/p><p>This is what I'm creating.<\/p><p><a href=\"\/pages\/about-cream\" title=\"About Cream\">About Cream Co<\/a><\/p>"
+            }
+          },
+          "d635ef39-e208-4ae4-b649-e8a97a6f2f21": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Collections",
+              "menu": "footer-menu-1"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Cream Co",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "d635ef39-e208-4ae4-b649-e8a97a6f2f21",
-          "footer-0",
+          "4f2c9f73-2531-410a-a325-574a1bbdd9c5",
           "footer-1",
-          "4f2c9f73-2531-410a-a325-574a1bbdd9c5"
+          "d635ef39-e208-4ae4-b649-e8a97a6f2f21",
+          "footer-0"
         ],
         "settings": {
           "color_scheme": "background-2",
