@@ -54,6 +54,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "2fa748c2-3bfe-4061-8d93-926bb9d89269": {
+          "type": "rating",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -65,7 +70,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "2fa748c2-3bfe-4061-8d93-926bb9d89269"
       ],
       "settings": {
         "enable_sticky_info": true,
