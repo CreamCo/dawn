@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Deck the Walls",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
         },
         "button": {
@@ -43,18 +43,19 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Original skateboard deck art",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Hand-painted or decorated, luxuryl, mystical, or oddball deck art by Luke Dorny, who is running a little studio shop called Cream Co  out of Seattle, Washington.<\/p>"
           }
         },
         "button": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -135,22 +136,25 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/molten-maple-decks.png",
+            "title": "The Molten Skate Deck Art",
+            "text": ""
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/bunny-hop-deck-291.png",
+            "title": "Bunny Hop Skate Deck Art",
+            "text": ""
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/bouncing-bus-deck-345.png",
+            "title": "Bouncing Bus Skate Deck Art",
+            "text": ""
           }
         }
       },
@@ -160,13 +164,13 @@
         "column3"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "image_width": "half",
-        "image_ratio": "adapt",
+        "title": "Available Art to Purchase",
+        "image_width": "full",
+        "image_ratio": "square",
         "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "background_style": "secondary",
+        "button_label": "Available Art",
+        "button_link": "shopify:\/\/collections\/stock",
         "swipe_on_mobile": true
       }
     },
@@ -198,7 +202,7 @@
         "16305619563f4d255e-2"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": false,
@@ -218,7 +222,7 @@
             "button_link": "",
             "layout": "grid",
             "image_size": "small",
-            "add_spacing": true,
+            "add_spacing": false,
             "rows_count": 3,
             "show_author": false,
             "show_caption": true,

@@ -1,28 +1,80 @@
 {
- "sections": {
-   "main": {
-     "type": "main-article",
-     "blocks": {
-       "featured_image": {
-         "type": "featured_image"
-       },
-       "title": {
-         "type": "title"
-       },
-       "content": {
-         "type": "content"
-       },
-       "share": {
-         "type": "share"
-       }
-     },
-     "block_order": [
-       "featured_image",
-       "title",
-       "share",
-       "content"
-    ]
-   }
- },
- "order": ["main"]
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "settings": {
+      }
+    },
+    "16306023482216c1a2": {
+      "type": "apps",
+      "blocks": {
+        "d663491a-f696-4247-b7f0-fb57f1a126db": {
+          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "@CreamLtdCo",
+            "subheading": "",
+            "button_text": "",
+            "button_link": "",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": false,
+            "rows_count": 2,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "d663491a-f696-4247-b7f0-fb57f1a126db"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16306023482216c1a2"
+  ]
 }

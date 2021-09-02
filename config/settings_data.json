@@ -19,10 +19,9 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "text": "Welcome to Cream Co, the store for artwork by Luke Dorny",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
@@ -36,8 +35,9 @@
       "header": {
         "type": "header",
         "settings": {
+          "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/90C5D164-D1E5-4E1D-B07F-899EDFDC00CA_fdeabd60-df7c-4da8-a86e-a8b278fd2061.png",
-          "logo_width": 100,
+          "logo_width": 160,
           "logo_position": "top-center",
           "menu": "main-menu",
           "show_line_separator": true,
@@ -67,12 +67,21 @@
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
+          },
+          "4f2c9f73-2531-410a-a325-574a1bbdd9c5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/skatebits-nobg_2fae72fd-b98f-4cd8-82f3-c1f0ceed9784.png",
+              "image_width": 200,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "d635ef39-e208-4ae4-b649-e8a97a6f2f21",
           "footer-0",
-          "footer-1"
+          "footer-1",
+          "4f2c9f73-2531-410a-a325-574a1bbdd9c5"
         ],
         "settings": {
           "color_scheme": "background-2",
