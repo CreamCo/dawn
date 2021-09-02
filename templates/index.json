@@ -177,6 +177,42 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "16305619563f4d255e": {
+      "type": "collection-list",
+      "blocks": {
+        "16305619563f4d255e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "catalog"
+          }
+        },
+        "16305619563f4d255e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stock"
+          }
+        },
+        "16305619563f4d255e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decks"
+          }
+        }
+      },
+      "block_order": [
+        "16305619563f4d255e-0",
+        "16305619563f4d255e-1",
+        "16305619563f4d255e-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": true
+      }
     }
   },
   "order": [
@@ -185,6 +221,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "16305619563f4d255e"
   ]
 }
