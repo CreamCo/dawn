@@ -91,19 +91,11 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "video": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false,
+            "product": "lunar-laundry-deck",
+            "second_image": true,
             "image_padding": false,
             "secondary_background": false
           }
@@ -111,16 +103,25 @@
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "catalog",
             "image_padding": false,
             "color_scheme": "background-1"
+          }
+        },
+        "1d633c35-888b-4a31-bc71-ad53a82216d4": {
+          "type": "product",
+          "settings": {
+            "product": "bouncing-bus-deck",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
           }
         }
       },
       "block_order": [
-        "video",
         "product",
-        "collection"
+        "collection",
+        "1d633c35-888b-4a31-bc71-ad53a82216d4"
       ],
       "settings": {
         "heading": "Multimedia collage",
