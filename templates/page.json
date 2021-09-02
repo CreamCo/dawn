@@ -7,6 +7,7 @@
     },
     "1630622409a60e4acd": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "1630622409a60e4acd-1": {
           "type": "product",
@@ -86,6 +87,7 @@
     },
     "1630623819c744141b": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "fb1cd8ef-e2f3-4975-a226-9731439edd41": {
           "type": "image",
@@ -125,6 +127,7 @@
     },
     "1630625029d4ba2e8f": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "b5fdb1c0-dfc1-49ea-bb47-fcd22882b7a5": {
           "type": "image",
