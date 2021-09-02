@@ -8,23 +8,6 @@
     "1630622409a60e4acd": {
       "type": "collage",
       "blocks": {
-        "1630622409a60e4acd-1": {
-          "type": "product",
-          "settings": {
-            "product": "glacier-panel",
-            "second_image": true,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "1630622409a60e4acd-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "featured",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
         "981a0aef-0ca3-4f56-a295-b4e37b271fea": {
           "type": "image",
           "settings": {
@@ -32,12 +15,26 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
+        },
+        "15b24007-b40c-4c4b-aa5f-65c73290eef4": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "1db9c92b-3291-4ad8-8351-dcbf391e9fff": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
         }
       },
       "block_order": [
-        "1630622409a60e4acd-1",
-        "1630622409a60e4acd-2",
-        "981a0aef-0ca3-4f56-a295-b4e37b271fea"
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea",
+        "15b24007-b40c-4c4b-aa5f-65c73290eef4",
+        "1db9c92b-3291-4ad8-8351-dcbf391e9fff"
       ],
       "settings": {
         "heading": "",
@@ -48,23 +45,6 @@
     "16306225738f66439c": {
       "type": "collage",
       "blocks": {
-        "16306225738f66439c-1": {
-          "type": "product",
-          "settings": {
-            "product": "bearing-grease-mug",
-            "second_image": true,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "16306225738f66439c-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "supplies",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
         "d8208b64-1341-4da1-b640-a31154f98753": {
           "type": "image",
           "settings": {
@@ -72,16 +52,67 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
+        },
+        "6b46f092-07ae-4ea2-b8e7-75a2ee481fab": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "2f1ce6e1-3b7d-47ab-8e45-1b2e5f48d6f3": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
         }
       },
       "block_order": [
-        "16306225738f66439c-1",
-        "16306225738f66439c-2",
-        "d8208b64-1341-4da1-b640-a31154f98753"
+        "d8208b64-1341-4da1-b640-a31154f98753",
+        "6b46f092-07ae-4ea2-b8e7-75a2ee481fab",
+        "2f1ce6e1-3b7d-47ab-8e45-1b2e5f48d6f3"
       ],
       "settings": {
         "heading": "",
         "desktop_layout": "right",
+        "mobile_layout": "collage"
+      }
+    },
+    "16306254521dae3130": {
+      "type": "collage",
+      "blocks": {
+        "abf3e525-0c28-4e8a-a79e-0584cc4b7ddc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.43.38_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "c47bb571-87a5-4464-b385-6314e664c3b7": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "0e1849b8-0c7b-4baa-ac37-7ead732e6ca9": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "abf3e525-0c28-4e8a-a79e-0584cc4b7ddc",
+        "c47bb571-87a5-4464-b385-6314e664c3b7",
+        "0e1849b8-0c7b-4baa-ac37-7ead732e6ca9"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
         "mobile_layout": "collage"
       }
     }
@@ -89,6 +120,7 @@
   "order": [
     "main",
     "1630622409a60e4acd",
-    "16306225738f66439c"
+    "16306225738f66439c",
+    "16306254521dae3130"
   ]
 }
