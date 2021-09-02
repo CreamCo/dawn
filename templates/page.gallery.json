@@ -1,0 +1,109 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1630622409a60e4acd": {
+      "type": "collage",
+      "blocks": {
+        "1630622409a60e4acd-1": {
+          "type": "product",
+          "settings": {
+            "product": "glacier-panel",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1630622409a60e4acd-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "featured",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2018-05-02_11.26.15.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1630622409a60e4acd-1",
+        "1630622409a60e4acd-2",
+        "981a0aef-0ca3-4f56-a295-b4e37b271fea"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "16306225738f66439c": {
+      "type": "collage",
+      "blocks": {
+        "16306225738f66439c-1": {
+          "type": "product",
+          "settings": {
+            "product": "bearing-grease-mug",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "16306225738f66439c-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "supplies",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "d8208b64-1341-4da1-b640-a31154f98753": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/76823C39-200F-4A5E-856E-4ABAAB57EA78.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "16306225738f66439c-1",
+        "16306225738f66439c-2",
+        "d8208b64-1341-4da1-b640-a31154f98753"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "right",
+        "mobile_layout": "collage"
+      }
+    },
+    "1630619729ab32fe6a": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.39.40_AM.png",
+        "image_2": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.32.51_AM.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 20,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1630622409a60e4acd",
+    "16306225738f66439c",
+    "1630619729ab32fe6a"
+  ]
+}
