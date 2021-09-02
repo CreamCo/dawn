@@ -8,6 +8,7 @@
     "colors_background_1": "#efecec",
     "gradient_background_1": "linear-gradient(#efecec 0%, #dad7cd 100%)",
     "colors_background_2": "#dad7cd",
+    "gradient_background_2": "linear-gradient(#dad7cd 0%, #efecec 100%)",
     "type_header_font": "zurich_extended_n4",
     "type_body_font": "zurich_n4",
     "accent_icons": "outline-button",
