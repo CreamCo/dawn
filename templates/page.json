@@ -87,15 +87,6 @@
     "1630623819c744141b": {
       "type": "collage",
       "blocks": {
-        "1630623819c744141b-1": {
-          "type": "product",
-          "settings": {
-            "product": "fog-cutter-beanie",
-            "second_image": true,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
         "fb1cd8ef-e2f3-4975-a226-9731439edd41": {
           "type": "image",
           "settings": {
@@ -111,16 +102,63 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
+        },
+        "ea6af876-e310-4526-bb05-876b37a6ab51": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.32.51_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
         }
       },
       "block_order": [
-        "1630623819c744141b-1",
         "fb1cd8ef-e2f3-4975-a226-9731439edd41",
-        "f4b913b1-63f6-4f0f-a4ef-84d7d5f6f21b"
+        "f4b913b1-63f6-4f0f-a4ef-84d7d5f6f21b",
+        "ea6af876-e310-4526-bb05-876b37a6ab51"
       ],
       "settings": {
         "heading": "",
         "desktop_layout": "right",
+        "mobile_layout": "collage"
+      }
+    },
+    "1630625029d4ba2e8f": {
+      "type": "collage",
+      "blocks": {
+        "b5fdb1c0-dfc1-49ea-bb47-fcd22882b7a5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2018-05-02-cream-pad-wrist.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "94a9cc81-5174-4cc4-bb14-4ef76e3e7379": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lifeguard-stand-on-grey-beach.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "85b777ba-aecc-4bcf-869d-3aae38dcfb37": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.39.40_AM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "b5fdb1c0-dfc1-49ea-bb47-fcd22882b7a5",
+        "94a9cc81-5174-4cc4-bb14-4ef76e3e7379",
+        "85b777ba-aecc-4bcf-869d-3aae38dcfb37"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
         "mobile_layout": "collage"
       }
     }
@@ -129,6 +167,7 @@
     "main",
     "1630622409a60e4acd",
     "16306225738f66439c",
-    "1630623819c744141b"
+    "1630623819c744141b",
+    "1630625029d4ba2e8f"
   ]
 }
