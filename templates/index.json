@@ -211,6 +211,32 @@
         "show_view_all": true
       }
     },
+    "1630628268703a98d3": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630628268703a98d3-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Luke-logo-large.png",
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630628268703a98d3-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1630627650c2e7887b": {
       "type": "image-with-text",
       "blocks": {
@@ -289,6 +315,7 @@
     "collage",
     "multi_column",
     "16305619563f4d255e",
+    "1630628268703a98d3",
     "1630627650c2e7887b",
     "16305626321bae9262"
   ]

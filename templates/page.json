@@ -46,49 +46,52 @@
         "mobile_layout": "collage"
       }
     },
-    "16306225738f66439c": {
-      "type": "collage",
+    "16306284331cc238dc": {
+      "type": "multicolumn",
       "blocks": {
-        "d8208b64-1341-4da1-b640-a31154f98753": {
-          "type": "image",
+        "16306284331cc238dc-0": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/76823C39-200F-4A5E-856E-4ABAAB57EA78.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "title": "",
+            "text": ""
           }
         },
-        "d2f824dc-ae5a-4fd0-acca-587b91e53e3b": {
-          "type": "image",
+        "16306284331cc238dc-2": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tidal-deck-490.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "image": "shopify:\/\/shop_images\/Luke-logo-large.png",
+            "title": "Luke Dorny",
+            "text": "<p>Explore Luke's articles about design related to album art, music and technology, film posters, and more on his personal design site:<\/p>"
           }
         },
-        "214f4753-1b3b-416b-a2a7-0bc27e31ff59": {
-          "type": "image",
+        "16306284331cc238dc-1": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.43.38_AM.png",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "title": "",
+            "text": ""
           }
         }
       },
       "block_order": [
-        "d8208b64-1341-4da1-b640-a31154f98753",
-        "d2f824dc-ae5a-4fd0-acca-587b91e53e3b",
-        "214f4753-1b3b-416b-a2a7-0bc27e31ff59"
+        "16306284331cc238dc-0",
+        "16306284331cc238dc-2",
+        "16306284331cc238dc-1"
       ],
       "settings": {
-        "heading": "",
-        "desktop_layout": "right",
-        "mobile_layout": "collage"
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "LukeDorny.com",
+        "button_link": "https:\/\/lukedorny.com",
+        "swipe_on_mobile": false
       }
     }
   },
   "order": [
     "main",
     "1630622409a60e4acd",
-    "16306225738f66439c"
+    "16306284331cc238dc"
   ]
 }
