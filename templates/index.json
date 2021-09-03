@@ -211,6 +211,41 @@
         "show_view_all": true
       }
     },
+    "1630627650c2e7887b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1630627650c2e7887b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LukeDorny.com"
+          }
+        },
+        "1630627650c2e7887b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spend a few minutes browsing Luke's personal web site with articles, design research, and typography love.<\/p>"
+          }
+        },
+        "1630627650c2e7887b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LukeDorny.com",
+            "button_link": "https:\/\/lukedorny.com"
+          }
+        }
+      },
+      "block_order": [
+        "1630627650c2e7887b-0",
+        "1630627650c2e7887b-1",
+        "1630627650c2e7887b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-02_at_5.05.29_PM.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "16305626321bae9262": {
       "type": "apps",
       "blocks": {
@@ -254,6 +289,7 @@
     "collage",
     "multi_column",
     "16305619563f4d255e",
+    "1630627650c2e7887b",
     "16305626321bae9262"
   ]
 }
