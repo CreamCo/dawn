@@ -26,11 +26,47 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "163062723172f6a009": {
+      "type": "image-with-text",
+      "blocks": {
+        "163062723172f6a009-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LukeDorny.com"
+          }
+        },
+        "163062723172f6a009-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spend a few minutes browsing Luke's site with articles, design research, and typography love.<\/p>"
+          }
+        },
+        "163062723172f6a009-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "lukedorny.com",
+            "button_link": "https:\/\/lukedorny.com"
+          }
+        }
+      },
+      "block_order": [
+        "163062723172f6a009-0",
+        "163062723172f6a009-1",
+        "163062723172f6a009-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-02_at_5.05.29_PM.png",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
     "form",
-    "163061989530763d92"
+    "163061989530763d92",
+    "163062723172f6a009"
   ]
 }
