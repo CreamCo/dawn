@@ -15,7 +15,7 @@
           "settings": {
             "button_label_1": "Skate Decks",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "In Stock Art",
             "button_link_2": "shopify:\/\/collections\/stock",
             "button_style_secondary_2": true
@@ -28,11 +28,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/B6754BA6-057A-442D-BD2A-3D972D5EF16D.jpg",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "flex-start",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 30,
-        "color_scheme": "accent-1",
+        "color_scheme": "inverse",
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
@@ -71,22 +71,6 @@
       "settings": {
         "color_scheme": "background-2",
         "full_width": true
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Available Now",
-        "collection": "stock",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": false,
-        "show_rating": false
       }
     },
     "collage": {
@@ -131,8 +115,25 @@
         "mobile_layout": "collage"
       }
     },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Available Now",
+        "collection": "stock",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -165,7 +166,7 @@
         "column3"
       ],
       "settings": {
-        "title": "Available Art to Purchase",
+        "title": "Art Available for Purchase",
         "image_width": "full",
         "image_ratio": "square",
         "column_alignment": "center",
@@ -195,15 +196,36 @@
           "settings": {
             "collection": "decks"
           }
+        },
+        "8865de0f-46f6-4363-893b-8ec741c43eb0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "debut-decks"
+          }
+        },
+        "432639cc-8e63-435a-94c8-57c78a132530": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "featured"
+          }
+        },
+        "3b2c42cd-0060-412a-8e08-9144fbc28ad2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "supplies"
+          }
         }
       },
       "block_order": [
         "16305619563f4d255e-0",
         "16305619563f4d255e-1",
-        "16305619563f4d255e-2"
+        "16305619563f4d255e-2",
+        "8865de0f-46f6-4363-893b-8ec741c43eb0",
+        "432639cc-8e63-435a-94c8-57c78a132530",
+        "3b2c42cd-0060-412a-8e08-9144fbc28ad2"
       ],
       "settings": {
-        "title": "",
+        "title": "Collections",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": false,
@@ -311,8 +333,8 @@
   "order": [
     "image_banner",
     "rich_text",
-    "featured_products",
     "collage",
+    "featured_products",
     "multi_column",
     "16305619563f4d255e",
     "1630628268703a98d3",
