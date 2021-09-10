@@ -26,6 +26,16 @@
           "settings": {
             "share_label": "Share"
           }
+          "type": "featured_image"
+        },
+        "title": {
+          "type": "title"
+        },
+        "content": {
+          "type": "content"
+        },
+        "share": {
+          "type": "share"
         }
       },
       "block_order": [
@@ -93,5 +103,12 @@
     "main",
     "1630616671b57ca2fc",
     "16306023482216c1a2"
+        "share",
+        "content"
+      ]
+    }
+  },
+  "order": [
+    "main"
   ]
 }
