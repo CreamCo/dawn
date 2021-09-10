@@ -170,12 +170,12 @@
         "163131803569922309-2"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "View other collections",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": false,
         "image_padding": false,
-        "show_view_all": false
+        "show_view_all": true
       }
     }
   },
