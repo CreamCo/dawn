@@ -58,41 +58,6 @@
         "full_width": false
       }
     },
-    "16306180208210b138": {
-      "type": "apps",
-      "blocks": {
-        "f4644b2a-3897-45f0-8f73-37fef50089b0": {
-          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
-          "settings": {
-            "title": "Micro Updates on IG",
-            "subheading": "",
-            "button_text": "@CreamLtdCo",
-            "button_link": "https:\/\/www.instagram.com\/creamltdco\/",
-            "layout": "grid",
-            "image_size": "small",
-            "add_spacing": false,
-            "rows_count": 2,
-            "show_author": false,
-            "show_caption": true,
-            "show_date": true,
-            "click_action": "open_instagram",
-            "heading_color": "#000000",
-            "subheading_color": "#000000",
-            "button_background": "#000000",
-            "button_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_text_color": "#ffffff",
-            "overlay_opacity": 65
-          }
-        }
-      },
-      "block_order": [
-        "f4644b2a-3897-45f0-8f73-37fef50089b0"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "1630618186b9e32a53": {
       "type": "image-banner",
       "disabled": true,
@@ -177,14 +142,49 @@
         "image_padding": false,
         "show_view_all": true
       }
+    },
+    "16306180208210b138": {
+      "type": "apps",
+      "blocks": {
+        "f4644b2a-3897-45f0-8f73-37fef50089b0": {
+          "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "Micro Updates on IG",
+            "subheading": "",
+            "button_text": "@CreamLtdCo",
+            "button_link": "https:\/\/www.instagram.com\/creamltdco\/",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": false,
+            "rows_count": 2,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "f4644b2a-3897-45f0-8f73-37fef50089b0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
     "1630617999c688fd5f",
-    "16306180208210b138",
     "1630618186b9e32a53",
-    "163131803569922309"
+    "163131803569922309",
+    "16306180208210b138"
   ]
 }
