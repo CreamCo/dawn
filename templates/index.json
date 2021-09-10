@@ -34,13 +34,13 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B6754BA6-057A-442D-BD2A-3D972D5EF16D.jpg",
-        "adapt_height_first_image": false,
+        "image": "shopify:\/\/shop_images\/DSC00790-shortwidedecks.jpg",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 30,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
+        "show_text_box": false,
+        "image_overlay_opacity": 70,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
