@@ -95,6 +95,7 @@
     },
     "1630618186b9e32a53": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1630618186b9e32a53-0": {
           "type": "heading",
@@ -140,6 +141,42 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "163131803569922309": {
+      "type": "collection-list",
+      "blocks": {
+        "163131803569922309-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stock"
+          }
+        },
+        "163131803569922309-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decks"
+          }
+        },
+        "163131803569922309-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "supplies"
+          }
+        }
+      },
+      "block_order": [
+        "163131803569922309-0",
+        "163131803569922309-1",
+        "163131803569922309-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -147,6 +184,7 @@
     "product-grid",
     "1630617999c688fd5f",
     "16306180208210b138",
-    "1630618186b9e32a53"
+    "1630618186b9e32a53",
+    "163131803569922309"
   ]
 }
