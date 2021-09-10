@@ -10,6 +10,12 @@
             "heading_size": "large"
           }
         },
+        "88565a42-f21e-4b92-991e-f13ee72c9452": {
+          "type": "text",
+          "settings": {
+            "text": "Custom, original skate deck art by Luke Dorny."
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -24,6 +30,7 @@
       },
       "block_order": [
         "heading",
+        "88565a42-f21e-4b92-991e-f13ee72c9452",
         "button"
       ],
       "settings": {
@@ -43,14 +50,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Original Skate Decks and Panel Art",
+            "heading": "Skate Decks \/ Wood Panels",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Hand-painted or decorated, luxury, mystical, or oddball skateboard deck and traditional panel art by Luke Dorny, who is running a little studio shop called Cream Co out of Seattle, Washington.<\/p>"
+            "text": "<p>Cream Co is hand-painted, decorated, oddball, mystical, and luxury skateboard deck art, as well as traditional painted panel art, leather goods, and more.<\/p><p>Crafted by Luke Dorny, in his little studio shop called Cream Co near Seattle, Washington.<\/p>"
           }
         },
         "button": {
@@ -233,6 +240,41 @@
         "show_view_all": true
       }
     },
+    "1631316045fb0cde15": {
+      "type": "image-with-text",
+      "blocks": {
+        "1631316045fb0cde15-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skate Decks \/ Wood Panels"
+          }
+        },
+        "1631316045fb0cde15-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cream Co is hand-painted, decorated, oddball, mystical, and luxury skateboard deck art, as well as traditional painted panel art, leather goods, and more.<\/p><p>Crafted by Luke Dorny, in his little studio shop called Cream Co near Seattle, Washington.<\/p>"
+          }
+        },
+        "1631316045fb0cde15-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Browse Art by Type",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "1631316045fb0cde15-0",
+        "1631316045fb0cde15-1",
+        "1631316045fb0cde15-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-03-03_at_10.47.31_AM.png",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "text_first"
+      }
+    },
     "1630628268703a98d3": {
       "type": "multicolumn",
       "blocks": {
@@ -265,13 +307,13 @@
         "1630627650c2e7887b-0": {
           "type": "heading",
           "settings": {
-            "heading": "LukeDorny.com"
+            "heading": "Who makes this stuff?"
           }
         },
         "1630627650c2e7887b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Spend a few minutes browsing Luke's personal web site with articles, design research, and typography love.<\/p>"
+            "text": "<p>Who is this Luke person?<\/p><p>Spend a few minutes browsing Luke's personal web site with articles, design research, and typography love.<\/p>"
           }
         },
         "1630627650c2e7887b-2": {
@@ -337,6 +379,7 @@
     "featured_products",
     "multi_column",
     "16305619563f4d255e",
+    "1631316045fb0cde15",
     "1630628268703a98d3",
     "1630627650c2e7887b",
     "16305626321bae9262"
