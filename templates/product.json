@@ -93,6 +93,7 @@
     },
     "1630094698ab98ca14": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -206,6 +207,7 @@
     },
     "16305970905930e7eb": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "2555e572-4fa6-4c3e-a910-26f83acbdfed": {
           "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
