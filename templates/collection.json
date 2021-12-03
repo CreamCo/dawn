@@ -145,7 +145,6 @@
     },
     "16306180208210b138": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "f4644b2a-3897-45f0-8f73-37fef50089b0": {
           "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
@@ -157,7 +156,7 @@
             "layout": "grid",
             "image_size": "small",
             "add_spacing": false,
-            "rows_count": 2,
+            "rows_count": 3,
             "show_author": false,
             "show_caption": true,
             "show_date": true,
