@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Deck the Walls",
-            "heading_size": "large"
+            "heading_size": "medium"
           }
         },
         "88565a42-f21e-4b92-991e-f13ee72c9452": {
@@ -19,10 +19,10 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Skate Decks",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "Skate Deck Art",
+            "button_link_1": "shopify:\/\/collections\/decks",
             "button_style_secondary_1": false,
-            "button_label_2": "All Available Art",
+            "button_label_2": "Available Art",
             "button_link_2": "shopify:\/\/collections\/stock",
             "button_style_secondary_2": true
           }
@@ -82,6 +82,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "product": {
           "type": "product",
@@ -127,14 +128,14 @@
       "settings": {
         "title": "Available Now",
         "collection": "stock",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": false,
         "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_rating": false
       }
     },
@@ -234,7 +235,7 @@
       "settings": {
         "title": "Collections",
         "image_ratio": "square",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "swipe_on_mobile": false,
         "image_padding": false,
         "show_view_all": true
@@ -332,7 +333,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-02_at_5.05.29_PM.png",
         "height": "adapt",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "layout": "text_first"
       }
     },
